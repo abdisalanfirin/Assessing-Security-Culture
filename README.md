@@ -93,3 +93,31 @@ topics that including the training should be what risks are and what they can do
 ## answer
 official certification exams are some ways to measure training effectiveness. The more data you collect on measurable outcomes, the easier it will be to quantify your company's
 after the training, the company should make model measure to see the effectiveness of the training. for example, it might perform a risk analysis to see specifically who is fallowing the training, then determent Employee engagement of the training. Ask staff to rate their own job satisfaction. take Team performance. The gold standard to evaluate and measure the effectiveness of the training is the comparison of empirical observations with a control group in an experimental design or with a counterfactual scenario. for example, the company should training quizzes, one-to-one discussions, employee surveys, etc.  
+## Bonus: Other Solutions
+*Training alone often isn't the entire solution to a security concern*
+*Indicate at least two other potential solutions*
+## answer
+**Use rating scales** and **Track digital trails**
+1. What type of control is it? Administrative, technical, or physical?
+## answer rating scales
+many companies  need a plan to make sure their own people are not the cause of a data breach for both malicious insiders and negligent insiders. However, more training alone isn’t the answer. For subjective measurements, Administrative can create data classification model then a manager can rate their employee on a scale of 1 to 10. The rating should be done at regular intervals and be consistent in both what it measures, and the scale used, to track changes in staff performance. Use the job description to set criteria necessary for the role.
+## answer track digital trails
+insider attacks puts you in precarious security position. No one can guarantee that every person in your organization who has access to sensitive information will follow the rules  no matter how much training they receive. this control is to also helps us to understand just that. its a technical control that allows managers to track their employees’ work. to explain better way, imaging your digital footprint that can tell you what you doing. every time we go  online, we leaves a digital footprint or trail.  Depending on how they manage it, this  trail. it can be big or small, and harmful or helpful. 
+
+2. What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?
+## answer rating scale
+this controls preventive, it can have reach our goal without any risk. it means that Preventive controls  attempt to prevent an incident from occurring. There is concrete evidence that a large percentage of breaches are caused by employees accidentally or maliciously mishandling sensitive corporate information against policy. for the rating scale model, will tell you what your employees doing and if they need more training to understand the policies and procedures that need to be fallowed 
+## answer  track digital trails
+this tracking digital trail will help us to get control of what would happen. for example, Your digital footprint is the record of all your interactions online.  so Understanding your digital footprint helps you choose a safe way to prevent ransomware or hacking attack in the future. To start, identify where all your data currently exists within the various data repositories and tools used to store it. You also need to ensure only authorized personnel have access to sensitive information.
+
+3. What is one advantage of each solution?
+## answer rating scale
+rating scale is easy to understand and quite user friendly. its extremely effective in gathering actionable, useful information from a employees rating survey scale. so that in the company will know where their weakness are and how to prevented. 
+## answer track digital trail
+Once you’ve reviewed your digital trail, you will have advantage of understanding how your employees doing and what you need to do to improve it. and it will also give you another advantage of preventing any harmful attack inside or outside source. 
+
+4. What is one disadvantage of each solution?
+## answer rating scale
+even though a rating scale is relatively easy to complete, it may be missing potential data. It doesn't necessarily show how vital a particular feature is, nor does it compare and contrast features to each other in a way that provides any meaningful analysis.
+## answer track digital trail
+the disadvantage of this, is that The facts is  clearly no one can simply relying on data digital trail to secure your security policies to safeguard the organization from insider or outside attacks that  puts you in precarious security position. No one can guarantee what will happen in the future or at the present. It’s easy to look at the negative aspects of a digital footprint, but This is difficult to measure what the outcome will be. 
